@@ -9,17 +9,17 @@ namespace TariffeLibrary
             string costo = "";
             if (giorni >= 1 && giorni <= 31)
             {
-                costo = "115.99 al mese";
+                costo = "Un mese a 115.99";
 
             }
             else if (giorni >= 32 && giorni <= 90)
             {
-                costo = "99.99 al mese";
+                costo = "Tre mesi 99.99 al mese";
 
             }
             else if (giorni >= 91 && giorni <= 365)
             {
-                costo = "79.99 al mese";
+                costo = "Dodici mesi 79.99 al mese";
             }
             return costo;
         }

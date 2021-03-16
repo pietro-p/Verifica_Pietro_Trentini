@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TariffeLibrary.Test", "Tari
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TariffeLibrary", "TariffeLibrary\TariffeLibrary.csproj", "{A9CF6DB2-711E-4E91-996B-65881566E3B9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Applicazione", "Applicazione\Applicazione.csproj", "{837F915E-A349-492D-92DE-E1F4DC3A7D14}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A9CF6DB2-711E-4E91-996B-65881566E3B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9CF6DB2-711E-4E91-996B-65881566E3B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9CF6DB2-711E-4E91-996B-65881566E3B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{837F915E-A349-492D-92DE-E1F4DC3A7D14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{837F915E-A349-492D-92DE-E1F4DC3A7D14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{837F915E-A349-492D-92DE-E1F4DC3A7D14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{837F915E-A349-492D-92DE-E1F4DC3A7D14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
